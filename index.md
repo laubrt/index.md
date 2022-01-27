@@ -1,6 +1,8 @@
 
 # Laurine Breton
 
+![avatar](bureau/avatar.jpg)
+
 ### Informations générales :
 
 * 20 ans
